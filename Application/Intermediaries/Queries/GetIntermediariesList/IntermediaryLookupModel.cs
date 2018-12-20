@@ -1,0 +1,8 @@
+﻿namespace Application.Intermediaries.Queries.GetIntermediariesList
+{
+    public class IntermediaryLookupModel
+    {
+        public string Id { get; set; }
+        public string Name { get; set; }
+    }
+}

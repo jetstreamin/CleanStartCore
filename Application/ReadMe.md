@@ -1,0 +1,2 @@
+﻿# Application
+This project acts as the application layer and contains all application logic.  It is dependent on the domain layer (Domain)  with no other layer or project depedencies for any other layer within the solution.  This layer establishes interfaces to be implemented by outer layers.  For example, if a storage service such as S3 needs to be accessed by the application, a new interface for S3 would be added to this layer and an implementation can be created within the infrastructure layer.

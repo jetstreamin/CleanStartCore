@@ -1,0 +1,2 @@
+﻿# Domain
+This project acts as a domain layer.  It contains all the entities, enums, exceptions, types and logiv specific to the domain.  The Entity Framework related classes are abstract and should be considered in the same light as .NET Core.  For testing, use an InMemory provider suce as InMemory or SqlLite.
