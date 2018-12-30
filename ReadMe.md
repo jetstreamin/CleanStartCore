@@ -8,7 +8,9 @@ Feel free to take and tweak what you find useful.  It's a can be a good starting
 
 Note: The Intermediary class is a domain entity, that maps to an application model.  I based it off customers in the NorthWind DB. Just sharing this out there just 'cuz.  
 
-As far as a roadmap goes, going to bake in some T-4 templating to ease the burden of creating the query, commands, various handlers and validates that need to get created for each entity.  
+As far as a roadmap goes, going to bake in some T-4 templating to ease the burden of creating the query, commands, various handlers and validates that need to get created for each entity.  Also bake in application interfaces for S3, lambdas and step functions in AWS.  
+
+Jason is still turning an burning on his NorthWind implementation.  His project [NorthWind Traders](https://github.com/JasonGT/NorthwindTraders) was used as a reference to create this, so props are PIF now!
 
 Thanks, 
 
