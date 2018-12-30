@@ -13,4 +13,4 @@ Thanks,
 Mike Mahon
 @jetstreamin (http://bit.ly/2RmcjJF)
 
-[@jetstreamin|http://bit.ly/2RmcjJF]
+[@jetstreamin](http://bit.ly/2RmcjJF)
