@@ -1,6 +1,6 @@
 # Simple Enough Clean Code Start
 
-This is my squeaky clean boilerplate for a DDD approach using .Net Core, CQRS, Fluent Validation, Mediator and Entity Framework.  It's a stripped down version of the NorthWind work Jason Tau did at the SSWTV back in October.  Here is a link to the presentation.  
+This is my squeaky clean boilerplate for a DDD approach using .Net Core, CQRS, Fluent Validation, Mediator and Entity Framework.  It's a stripped down version of the NorthWind work Jason Tau (http://bit.ly/2RghbjJ) did at the SSWTV back in October.  Here is a link to the presentation.  
 
 https://youtu.be/_lwCVE_XgqI
 
@@ -11,4 +11,6 @@ The Intermediary class is a domain entity, that maps to an application model.  I
 Thanks, 
 
 Mike Mahon
-@jetstreamin
+@jetstreamin (http://bit.ly/2RmcjJF)
+
+[@jetstreamin|http://bit.ly/2RmcjJF]
