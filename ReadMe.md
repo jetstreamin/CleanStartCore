@@ -1,6 +1,6 @@
 # Simple Enough Clean Code Start
 
-This is my squeaky clean boilerplate for a DDD approach using .Net Core, CQRS, Fluent Validation, Mediator and Entity Framework.  It's a stripped down version of the NorthWind work Jason Tau (http://bit.ly/2RghbjJ) did at the SSWTV back in October.  Here is a link to the presentation.  
+This is my squeaky clean boilerplate for a DDD approach using .Net Core, CQRS, Fluent Validation, Mediator and Entity Framework.  It's a stripped down version of the NorthWind work the native South Pacific Texan (Australian) [Jason Tau](http://bit.ly/2RghbjJ) did for his presentation at the [SSWTV](https://tv.ssw.com) back in October.  Here is a link to the presentation.  
 
 [Clean Architecture w/ ASP.Net Core 2.1](https://youtu.be/_lwCVE_XgqI)
 
