@@ -1,6 +1,6 @@
-# My Clean Start for ASP.Net Core 2.1
+# CleanStartCore: Clean Start for Asp.Net Core 2.2
 
-This is my squeaky clean CRUD'er boilerplate for a DDD approach using .Net Core, CQRS, Fluent Validation, Mediator and Entity Framework.  It's a stripped down version of the NorthWind work the native South Pacific Texan (Australian) [Jason Tau](http://bit.ly/2RghbjJ) did for his presentation at the [SSWTV](https://tv.ssw.com) back in October 2018.  Here is a link to the presentation.  
+This is my squeaky clean CRUD'er boilerplate for a DDD approach using .Net Core, CQRS, Fluent Validation, Mediator and Entity Framework.  I should have forked this but instead I started a clean solution and followed the Native South Pacific Texan (Australian) [Jason Tau](http://bit.ly/2RghbjJ)'s NorthwWind revamp work he did for his presentation at the [SSWTV](https://tv.ssw.com) back in October 2018.  Here is a link to the presentation.  
 
 [Clean Architecture w/ ASP.Net Core 2.1](https://youtu.be/_lwCVE_XgqI)
 
